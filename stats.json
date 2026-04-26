@@ -532,6 +532,193 @@
         ],
         "Brogan M": []
       }
+    },
+    {
+      "id": 1777223244047,
+      "label": "G4 (4/25)",
+      "gameDate": "4/25",
+      "gameNum": 4,
+      "opponent": "Westfield Starfires",
+      "order": [
+        "AJ",
+        "Owen",
+        "Aspen",
+        "Jagger",
+        "Dylan",
+        "Greg",
+        "Nathaniel",
+        "Jacob",
+        "Beckett",
+        "Nolan G",
+        "Brogan M",
+        "Gabe",
+        "Nolan H"
+      ],
+      "active": [
+        "AJ",
+        "Dylan",
+        "Beckett",
+        "Nolan G",
+        "Jagger",
+        "Nathaniel",
+        "Greg",
+        "Gabe",
+        "Aspen",
+        "Jacob",
+        "Nolan H",
+        "Brogan M"
+      ],
+      "abs": {
+        "AJ": [
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ],
+        "Owen": [],
+        "Dylan": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "2B",
+            "rbi": 0
+          }
+        ],
+        "Beckett": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Nolan G": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Jagger": [
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Nathaniel": [
+          {
+            "type": "OUT",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ],
+        "Greg": [
+          {
+            "type": "OUT",
+            "rbi": 0
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 2
+          }
+        ],
+        "Gabe": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          }
+        ],
+        "Aspen": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Jacob": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 1
+          }
+        ],
+        "Nolan H": [
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Brogan M": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          }
+        ]
+      }
     }
   ]
 }
