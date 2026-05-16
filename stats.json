@@ -1232,6 +1232,173 @@
         ],
         "Brogan M": []
       }
+    },
+    {
+      "id": 1778957285803,
+      "label": "G8 (5/16)",
+      "gameDate": "5/16",
+      "gameNum": 8,
+      "opponent": "Firtion Adams",
+      "order": [
+        "Brogan M",
+        "Aspen",
+        "Jacob",
+        "Dylan",
+        "Owen",
+        "Jagger",
+        "AJ",
+        "Beckett",
+        "Greg",
+        "Nolan G",
+        "Nathaniel",
+        "Gabe",
+        "Nolan H"
+      ],
+      "active": [
+        "AJ",
+        "Owen",
+        "Dylan",
+        "Beckett",
+        "Nolan G",
+        "Jagger",
+        "Greg",
+        "Gabe",
+        "Aspen",
+        "Jacob",
+        "Nolan H",
+        "Brogan M"
+      ],
+      "abs": {
+        "AJ": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Owen": [
+          {
+            "type": "2B",
+            "rbi": 1
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Dylan": [
+          {
+            "type": "2B",
+            "rbi": 1
+          },
+          {
+            "type": "1B",
+            "rbi": 1
+          }
+        ],
+        "Beckett": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Nolan G": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Jagger": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Nathaniel": [],
+        "Greg": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          }
+        ],
+        "Gabe": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          }
+        ],
+        "Aspen": [
+          {
+            "type": "2B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Jacob": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "1B",
+            "rbi": 1
+          }
+        ],
+        "Nolan H": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Brogan M": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ]
+      }
     }
   ]
 }
