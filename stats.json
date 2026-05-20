@@ -1399,6 +1399,213 @@
           }
         ]
       }
+    },
+    {
+      "id": 1779235751894,
+      "label": "G9 (5/19)",
+      "gameDate": "5/19",
+      "gameNum": 9,
+      "opponent": "Westfield Fire",
+      "order": [
+        "Nathaniel",
+        "Brogan M",
+        "Owen",
+        "Dylan",
+        "Beckett",
+        "Jagger",
+        "AJ",
+        "Greg",
+        "Gabe",
+        "Nolan G",
+        "Aspen",
+        "Nolan H",
+        "Jacob"
+      ],
+      "active": [
+        "AJ",
+        "Owen",
+        "Dylan",
+        "Beckett",
+        "Nolan G",
+        "Jagger",
+        "Nathaniel",
+        "Greg",
+        "Gabe",
+        "Aspen",
+        "Nolan H",
+        "Brogan M"
+      ],
+      "abs": {
+        "AJ": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          },
+          {
+            "type": "OUT",
+            "rbi": 0
+          }
+        ],
+        "Owen": [
+          {
+            "type": "OUT",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ],
+        "Dylan": [
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ],
+        "Beckett": [
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "FC",
+            "rbi": 1
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Nolan G": [
+          {
+            "type": "FC",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ],
+        "Jagger": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Nathaniel": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 1
+          }
+        ],
+        "Greg": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Gabe": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          },
+          {
+            "type": "SO",
+            "rbi": 0
+          }
+        ],
+        "Aspen": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          }
+        ],
+        "Jacob": [],
+        "Nolan H": [
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "1B",
+            "rbi": 1
+          },
+          {
+            "type": "FC",
+            "rbi": 0
+          }
+        ],
+        "Brogan M": [
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 0
+          },
+          {
+            "type": "1B",
+            "rbi": 1
+          }
+        ]
+      }
     }
   ]
 }
